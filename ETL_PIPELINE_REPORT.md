@@ -433,3 +433,4 @@ All requirements stipulated in the prompt have been fulfilled:
 - ✅ Three distinct tasks (Extract, Transform, Load) created with strict schema conformance.
 - ✅ Airflow Named XComs (`raw_exchange_rates`, `transformed_exchange_rates`, `mongodb_load_summary`) actively transferring data between tasks.
 - ✅ Code versioned and pushed to GitHub and DagsHub repositories.
+
